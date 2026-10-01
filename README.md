@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Xindi 👋
 
-<!--
-**Cinsoul/Cinsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agents that do real work from the terminal — and the release engineering that gets them into people's hands.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Aria Code](https://github.com/artherahq/aria-code)
+
+A local-first AI coding and research workspace, open source under Apache 2.0.
+
+- **Provider-agnostic runtime**: run local models through Ollama, or cloud models
+- **Typed tools with a permission layer**: file edits and shell commands go through approval; MCP servers plug in as tools
+- **Acceptance gate**: after the agent changes code, it has to get the project's tests passing before it can call the task done
+- **Verifiable evals and domain packs**: an extensible way to add domain tools, starting with finance
+
+Recently I rebuilt its release pipeline: one merged PR now ships one version, with native binaries for macOS, Linux and Windows attached to every GitHub Release and the Python package published to PyPI.
+
+## Other projects
+
+- **[beichen-warehouse-erp-demo](https://github.com/Cinsoul/beichen-warehouse-erp-demo)**: a warehouse ERP demo
+- **[Xindi-Blog](https://github.com/Cinsoul/Xindi-Blog)**: my personal blog, built with TypeScript
+
+## Tools I use
+
+Python · TypeScript · GitHub Actions · LLM agents · MCP
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/xindi-wang19990526)
