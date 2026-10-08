@@ -1,29 +1,91 @@
-# Hi, I'm Xindi 👋
+<h1 align="center">Hi, I'm Xindi 👋</h1>
 
-I build AI agents that do real work from the terminal — and the release engineering that gets them into people's hands.
+<p align="center">
+  <a href="https://github.com/artheras/aria-code">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+do+real+work;Coding+%C2%B7+Finance+research+%C2%B7+Logistics;From+the+terminal+to+a+shipped+release" alt="I build AI agents that do real work — coding, finance research, logistics" />
+  </a>
+</p>
 
-## What I'm working on
+<p align="center">
+  <a href="https://github.com/Cinsoul?tab=followers"><img src="https://img.shields.io/github/followers/Cinsoul?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/Cinsoul"><img src="https://komarev.com/ghpvc/?username=Cinsoul&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white" alt="Blog" /></a>
+</p>
 
-### [Aria Code](https://github.com/artherahq/aria-code)
+---
 
-A local-first AI coding and research workspace, open source under Apache 2.0.
+## 🧭 About me
 
-- **Provider-agnostic runtime**: run local models through Ollama, or cloud models
-- **Typed tools with a permission layer**: file edits and shell commands go through approval; MCP servers plug in as tools
-- **Acceptance gate**: after the agent changes code, it has to get the project's tests passing before it can call the task done
-- **Verifiable evals and domain packs**: an extensible way to add domain tools, starting with finance
+- 🤖 I build **AI agents** that work in a real workspace: they read the code, run the tests and leave something verifiable behind
+- 💻 **Coding**: an agent that has to get a project's tests passing before it can call a task done
+- 📈 **Finance research**: market data, risk, earnings and strategy backtests
+- 📦 **Logistics**: inventory policy, carrier scoring, freight audits and warehouse operations
+- 🚀 I also care about the boring half: release pipelines, evals and CI that tell the truth
 
-Recently I rebuilt its release pipeline: one merged PR now ships one version, with native binaries for macOS, Linux and Windows attached to every GitHub Release and the Python package published to PyPI.
+## 🛠️ What I'm building
 
-## Other projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/artheras/aria-code">Aria Code</a></h3>
+      <p>A local-first AI workspace for coding, finance research and logistics operations, open source under Apache 2.0.</p>
+      <ul>
+        <li>Runs local models through Ollama, or cloud models including Gemini and Gemma on Google Cloud</li>
+        <li>Typed tools behind a permission layer, shell commands sandboxed on macOS; MCP servers plug in as tools</li>
+        <li>A graded eval bank across all three areas, every task built around a tempting wrong answer</li>
+        <li>One merged PR ships one version: native binaries, PyPI and npm</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/artheras/aria-code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=aria-code&theme=tokyonight&hide_border=true" alt="aria-code" />
+      </a>
+      <br />
+      <a href="https://github.com/artheras/skills">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=skills&theme=tokyonight&hide_border=true" alt="skills" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/">Beichen Cloud Warehouse ERP</a></h3>
+      <p>A demo ERP for an overseas warehouse: inbound receiving, storage locations, warehouse tasks and shipment tracking.</p>
+      <a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/"><img src="https://img.shields.io/badge/Live%20demo-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
+      <a href="https://github.com/Cinsoul/beichen-warehouse-erp-demo"><img src="https://img.shields.io/badge/Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://xindi-blog.vercel.app">Xindi's Blog</a></h3>
+      <p>My personal blog, built with React, TypeScript, Vite and Tailwind.</p>
+      <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Read%20it-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the blog" /></a>
+      <a href="https://github.com/Cinsoul/Xindi-Blog"><img src="https://img.shields.io/badge/Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
 
-- **[beichen-warehouse-erp-demo](https://github.com/Cinsoul/beichen-warehouse-erp-demo)**: a warehouse ERP demo
-- **[Xindi-Blog](https://github.com/Cinsoul/Xindi-Blog)**: my personal blog, built with TypeScript
+## 📊 GitHub stats
 
-## Tools I use
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cinsoul&show_icons=true&include_all_commits=true&hide=stars,issues&theme=tokyonight&hide_border=true" alt="Xindi's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Cinsoul&theme=tokyonight&hide_border=true" alt="Xindi's contribution streak" />
+</p>
 
-Python · TypeScript · GitHub Actions · LLM agents · MCP
+## 💻 Tools and technologies
 
-## Contact
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,vite,tailwind,nodejs,html,css&theme=dark" alt="Python, TypeScript, React, Vite, Tailwind, Node.js, HTML, CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=gcp,githubactions,git,linux,bash,vercel&theme=dark" alt="Google Cloud, GitHub Actions, Git, Linux, Bash, Vercel" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/xindi-wang19990526)
+<p align="center">
+  LLM agents · MCP · Ollama · Gemini on Vertex AI · pytest · evals
+</p>
+
+## 📫 Find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-Xindi%20Wang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-xindi--blog.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/artheras"><img src="https://img.shields.io/badge/Org-artheras-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="artheras on GitHub" /></a>
+</p>
