@@ -1,29 +1,29 @@
-<h1 align="center">Hi, I'm Xindi 👋</h1>
+<h1 align="center">Hi, I'm Xindi</h1>
 
 <p align="center">
   <a href="https://github.com/artheras/aria-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+do+real+work;Coding+%C2%B7+Finance+research+%C2%B7+Logistics;From+the+terminal+to+a+shipped+release" alt="I build AI agents that do real work — coding, finance research, logistics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+do+real+work;Coding+%C2%B7+Finance+research+%C2%B7+Logistics;From+the+terminal+to+a+shipped+release" alt="I build AI agents that do real work — coding, finance research, logistics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Cinsoul?tab=followers"><img src="https://img.shields.io/github/followers/Cinsoul?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/Cinsoul"><img src="https://komarev.com/ghpvc/?username=Cinsoul&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/Cinsoul"><img src="https://komarev.com/ghpvc/?username=Cinsoul&label=Profile%20views&color=88c0d0&style=flat" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-3B4252?style=flat&logo=vercel&logoColor=white" alt="Blog" /></a>
 </p>
 
 ---
 
-## 🧭 About me
+## About me
 
-- 🤖 I build **AI agents** that work in a real workspace: they read the code, run the tests and leave something verifiable behind
-- 💻 **Coding**: an agent that has to get a project's tests passing before it can call a task done
-- 📈 **Finance research**: market data, risk, earnings and strategy backtests
-- 📦 **Logistics**: inventory policy, carrier scoring, freight audits and warehouse operations
-- 🚀 I also care about the boring half: release pipelines, evals and CI that tell the truth
+- I build **AI agents** that work in a real workspace: they read the code, run the tests and leave something verifiable behind
+- **Coding**: an agent that has to get a project's tests passing before it can call a task done
+- **Finance research**: market data, risk, earnings and strategy backtests
+- **Logistics**: inventory policy, carrier scoring, freight audits and warehouse operations
+- I also care about the boring half: release pipelines, evals and CI that tell the truth
 
-## 🛠️ What I'm building
+## What I'm building
 
 <table>
   <tr>
@@ -39,11 +39,11 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/artheras/aria-code">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=aria-code&theme=tokyonight&hide_border=true" alt="aria-code" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=aria-code&theme=nord&hide_border=true" alt="aria-code" />
       </a>
       <br />
       <a href="https://github.com/artheras/skills">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=skills&theme=tokyonight&hide_border=true" alt="skills" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=skills&theme=nord&hide_border=true" alt="skills" />
       </a>
     </td>
   </tr>
@@ -51,26 +51,26 @@
     <td width="50%" valign="top">
       <h3><a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/">Beichen Cloud Warehouse ERP</a></h3>
       <p>A demo ERP for an overseas warehouse: inbound receiving, storage locations, warehouse tasks and shipment tracking.</p>
-      <a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/"><img src="https://img.shields.io/badge/Live%20demo-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
-      <a href="https://github.com/Cinsoul/beichen-warehouse-erp-demo"><img src="https://img.shields.io/badge/Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+      <a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/"><img src="https://img.shields.io/badge/Live%20demo-5E81AC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
+      <a href="https://github.com/Cinsoul/beichen-warehouse-erp-demo"><img src="https://img.shields.io/badge/Code-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://xindi-blog.vercel.app">Xindi's Blog</a></h3>
       <p>My personal blog, built with React, TypeScript, Vite and Tailwind.</p>
-      <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Read%20it-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the blog" /></a>
-      <a href="https://github.com/Cinsoul/Xindi-Blog"><img src="https://img.shields.io/badge/Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+      <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Read%20it-5E81AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the blog" /></a>
+      <a href="https://github.com/Cinsoul/Xindi-Blog"><img src="https://img.shields.io/badge/Code-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cinsoul&show_icons=true&include_all_commits=true&hide=stars,issues&theme=tokyonight&hide_border=true" alt="Xindi's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Cinsoul&theme=tokyonight&hide_border=true" alt="Xindi's contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cinsoul&show_icons=true&hide=stars,issues&theme=nord&hide_border=true" alt="Xindi's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Cinsoul&theme=nord&hide_border=true" alt="Xindi's contribution streak" />
 </p>
 
-## 💻 Tools and technologies
+## Tools and technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,vite,tailwind,nodejs,html,css&theme=dark" alt="Python, TypeScript, React, Vite, Tailwind, Node.js, HTML, CSS" />
@@ -82,10 +82,10 @@
   LLM agents · MCP · Ollama · Gemini on Vertex AI · pytest · evals
 </p>
 
-## 📫 Find me
+## Find me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-Xindi%20Wang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-xindi--blog.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/artheras"><img src="https://img.shields.io/badge/Org-artheras-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="artheras on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-Xindi%20Wang-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-xindi--blog.vercel.app-3B4252?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/artheras"><img src="https://img.shields.io/badge/Org-artheras-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="artheras on GitHub" /></a>
 </p>
