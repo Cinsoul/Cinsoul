@@ -1,91 +1,121 @@
-<h1 align="center">Hi, I'm Xindi</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/aria-mark-dark.png">
+    <img src="assets/aria-mark-light.png" width="64" alt="Aria">
+  </picture>
+</p>
+
+<h1 align="center">Xindi Wang</h1>
+
+<p align="center">
+  Founder of <b>Arthera</b> · Building <b>Aria</b>
+</p>
+
+<p align="center">
+  I build AI systems that move from <b>intent to execution</b>:<br>
+  across code, financial research and logistics operations, with work you can check.
+</p>
+
+<p align="center">
+  <a href="https://github.com/artheras/aria-code">Aria Code</a> ·
+  <a href="https://arthera.finance">Arthera</a> ·
+  <a href="https://github.com/artheras">GitHub org</a> ·
+  <a href="https://www.linkedin.com/in/xindi-wang19990526">LinkedIn</a> ·
+  <a href="https://xindi-blog.vercel.app">Blog</a>
+</p>
+
+<br>
+
+## Building systems, not chatbots
+
+I'm building **Aria**, an AI agent that does real work inside a real workspace: it reads the project and the data, uses tools, and leaves results behind that someone can verify.
+
+My focus is on what makes an agent trustworthy enough to hand real work to: numbers that come from stated formulas and named data, one client's data kept apart from another's, and nothing written or run until a person approves it.
+
+I'm most interested in agent systems, evaluation, quantitative finance, logistics operations and developer tools.
+
+<br>
+
+## Aria Code
+
+**The open, terminal-first interface to Aria.** It inspects projects, works with live data, writes and runs code, and checks its own work before calling a task done.
 
 <p align="center">
   <a href="https://github.com/artheras/aria-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+do+real+work;Coding+%C2%B7+Finance+research+%C2%B7+Logistics;From+the+terminal+to+a+shipped+release" alt="I build AI agents that do real work — coding, finance research, logistics" />
+    <img src="https://raw.githubusercontent.com/artheras/aria-code/main/docs/assets/demo-coding.gif" width="820" alt="A real Aria Code session: it writes fx.py and its tests, runs them after each step is approved, then reviews the change">
   </a>
+  <br>
+  <sub>A real session, not a mock-up: Aria writes a module and its tests, runs them once each step is approved, then reviews the change.</sub>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Cinsoul?tab=followers"><img src="https://img.shields.io/github/followers/Cinsoul?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/Cinsoul"><img src="https://komarev.com/ghpvc/?username=Cinsoul&label=Profile%20views&color=88c0d0&style=flat" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-3B4252?style=flat&logo=vercel&logoColor=white" alt="Blog" /></a>
-</p>
-
----
-
-## About me
-
-- I build **AI agents** that work in a real workspace: they read the code, run the tests and leave something verifiable behind
-- **Coding**: an agent that has to get a project's tests passing before it can call a task done
-- **Finance research**: market data, risk, earnings and strategy backtests
-- **Logistics**: inventory policy, carrier scoring, freight audits and warehouse operations
-- I also care about the boring half: release pipelines, evals and CI that tell the truth
-
-## What I'm building
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/artheras/aria-code">Aria Code</a></h3>
-      <p>A local-first AI workspace for coding, finance research and logistics operations, open source under Apache 2.0.</p>
-      <ul>
-        <li>Runs local models through Ollama, or cloud models including Gemini and Gemma on Google Cloud</li>
-        <li>Typed tools behind a permission layer, shell commands sandboxed on macOS; MCP servers plug in as tools</li>
-        <li>A graded eval bank across all three areas, every task built around a tempting wrong answer</li>
-        <li>One merged PR ships one version: native binaries, PyPI and npm</li>
-      </ul>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/artheras/aria-code/main/docs/assets/demo-coding.png" alt="Aria Code writing and testing code">
+      <h4>Code</h4>
+      Writes code and builds projects. A change is done when the project's tests pass, and <code>/review</code> checks it like a careful colleague.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/artheras/aria-code">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=aria-code&theme=nord&hide_border=true" alt="aria-code" />
-      </a>
-      <br />
-      <a href="https://github.com/artheras/skills">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=artheras&repo=skills&theme=nord&hide_border=true" alt="skills" />
-      </a>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/artheras/aria-code/main/docs/assets/demo-finance.png" alt="Aria Code running a backtest">
+      <h4>Finance</h4>
+      Market data, risk, earnings and backtests. Every result names its data source, period and gaps.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/">Beichen Cloud Warehouse ERP</a></h3>
-      <p>A demo ERP for an overseas warehouse: inbound receiving, storage locations, warehouse tasks and shipment tracking.</p>
-      <a href="https://cinsoul.github.io/beichen-warehouse-erp-demo/"><img src="https://img.shields.io/badge/Live%20demo-5E81AC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
-      <a href="https://github.com/Cinsoul/beichen-warehouse-erp-demo"><img src="https://img.shields.io/badge/Code-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://xindi-blog.vercel.app">Xindi's Blog</a></h3>
-      <p>My personal blog, built with React, TypeScript, Vite and Tailwind.</p>
-      <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Read%20it-5E81AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the blog" /></a>
-      <a href="https://github.com/Cinsoul/Xindi-Blog"><img src="https://img.shields.io/badge/Code-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/artheras/aria-code/main/docs/assets/demo-logistics.png" alt="Aria Code analysing inventory and carriers">
+      <h4>Logistics</h4>
+      Inventory policy, carrier scoring and freight audits, one shipper's data at a time, with the formula in the result.
     </td>
   </tr>
 </table>
 
-## GitHub stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cinsoul&show_icons=true&hide=stars,issues&theme=nord&hide_border=true" alt="Xindi's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Cinsoul&theme=nord&hide_border=true" alt="Xindi's contribution streak" />
+  <a href="https://github.com/artheras/aria-code"><b>Explore Aria Code →</b></a>
 </p>
 
-## Tools and technologies
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,vite,tailwind,nodejs,html,css&theme=dark" alt="Python, TypeScript, React, Vite, Tailwind, Node.js, HTML, CSS" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=gcp,githubactions,git,linux,bash,vercel&theme=dark" alt="Google Cloud, GitHub Actions, Git, Linux, Bash, Vercel" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/aria-flow-dark.svg">
+    <img src="assets/aria-flow-light.svg" width="860" alt="How Aria works: intent, plan, then (after you approve) act and verify, then a result you can check. Models: local or cloud. Works in code, finance and logistics.">
+  </picture>
 </p>
 
-<p align="center">
-  LLM agents · MCP · Ollama · Gemini on Vertex AI · pytest · evals
-</p>
+<br>
 
-## Find me
+## Shipped, and checkable
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>67 releases</b><br><sub>on <a href="https://pypi.org/project/aria-code/">PyPI</a> and <a href="https://www.npmjs.com/package/@artheras/aria-code">npm</a>, with native binaries for macOS, Linux and Windows</sub></td>
+    <td width="33%" valign="top"><b>40-task eval suite</b><br><sub>across coding, finance and logistics, each task built around a tempting wrong answer (<a href="https://github.com/artheras/aria-code/blob/main/docs/verifiable-evals.md">how it works</a>)</sub></td>
+    <td width="33%" valign="top"><b>Open source</b><br><sub><a href="https://github.com/artheras/aria-code/blob/main/LICENSE">Apache-2.0</a>; runs on local models or in the cloud</sub></td>
+  </tr>
+</table>
+
+<br>
+
+## Projects
+
+| | Project | What it is |
+|---|---|---|
+| **Flagship** | [Aria Code](https://github.com/artheras/aria-code) | The open AI agent for coding, financial research and logistics operations |
+| **Now** | [Stablecoin settlement audit](https://github.com/artheras/skills/tree/main/skills/stablecoin-settlement-audit) | Reconciles freight invoices against USDC payments: paid twice, short-paid, or sent to the wrong address. Read-only; it never touches keys |
+| **Skills** | [Arthera skills](https://github.com/artheras/skills) | Reusable agent skills for finance and logistics research, usable by Aria Code and other agents |
+| **Applied** | [Beichen Cloud Warehouse ERP](https://cinsoul.github.io/beichen-warehouse-erp-demo/) | A demo ERP for an overseas warehouse: receiving, storage locations, tasks and shipment tracking |
+| **Writing** | [Xindi's Blog](https://xindi-blog.vercel.app) | My personal blog, built with React and TypeScript |
+
+<br>
+
+## Current focus
+
+**Aria**: agents that finish real work and show how they got there.<br>
+**Agent systems**: tool use, permissions, verification and evaluation.<br>
+**AI × finance**: market data, risk and backtests that don't borrow from the future.<br>
+**AI × logistics**: inventory, carriers and settlement, client by client.
+
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xindi-wang19990526"><img src="https://img.shields.io/badge/LinkedIn-Xindi%20Wang-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://xindi-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-xindi--blog.vercel.app-3B4252?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/artheras"><img src="https://img.shields.io/badge/Org-artheras-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="artheras on GitHub" /></a>
+  <sub>Python · TypeScript · LLM agents · MCP · Ollama · Gemini on Vertex AI · evals</sub>
 </p>
